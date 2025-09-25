@@ -25,9 +25,9 @@ Simple tool to modify your DistantSpace2 game save file.
 
 ## Important Warnings
 
-⚠️ **Shield limit**: Don't set shield above 100 - the game might crash
-⚠️ **HP limit**: Don't set HP above 200,000 - not necessary and might cause problems
-⚠️ **Achievements**: Changing your level won't unlock all achievements automatically
+⚠️ **Shield limit**: Don't set shield above 100 - the game might crash  
+⚠️ **HP limit**: Don't set HP above 200,000 - not necessary and might cause problems  
+⚠️ **Achievements**: Changing your level won't unlock all achievements automatically  
 ⚠️ **Backup**: The script creates a backup automatically, but make your own copy to be safe
 
 ## Tips
@@ -42,5 +42,6 @@ Simple tool to modify your DistantSpace2 game save file.
 Your backup file will be saved as `savedata.sav.backup` in the same folder. Remove the ".backup" extension to restore it.
 
 ---
+
 
 *This tool modifies your save file. Use at your own risk. I'm not responsible for any damage caused by using this tool.*
